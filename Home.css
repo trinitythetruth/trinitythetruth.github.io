@@ -139,15 +139,16 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 392px;
-    margin-top: 73px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    height: 507px;
+    width: 507px;
+    margin-top: -27px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-1 .u-group-1 {
-    margin-top: -47px;
+    margin-top: -62px;
+    margin-bottom: 1px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
