@@ -41501,7 +41501,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    margin: 33px -50px 33px 0;
+    font-size: 0.875rem;
+    margin-top: 33px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
