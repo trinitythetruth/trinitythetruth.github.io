@@ -1,20 +1,16 @@
- .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("/images/pexels-evgeny-tchebotarev-4101555.jpg");
-  background-position: 50% 50%;
-}
-
-.u-section-1 .u-sheet-1 {
+.u-section-1 .u-image-1 {
   min-height: 1807px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("/images/pexels-evgeny-tchebotarev-4101555.jpg");
 }
 
 .u-section-1 .u-text-1 {
   margin: 36px auto 0 410px;
 }
 
-.u-section-1 .u-image-1 {
+.u-section-1 .u-image-2 {
   width: 923px;
   height: 923px;
-  background-image: url("np://user.desktop.nicepage.com/Site_267913975/images/PhotoRoom-20231031_183120.png.png?rand=b3b2");
+  background-image: url("/images/PhotoRoom-20231031_183120.png.png");
   background-position: 50% 50%;
   margin: 262px auto 0;
 }
@@ -23,7 +19,7 @@
   width: 713px;
   min-height: 405px;
   height: auto;
-  margin: 40px 172px 0 auto;
+  margin: 40px 172px 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -47,17 +43,15 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
+  .u-section-1 .u-image-1 {
     min-height: 1817px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: auto;
+    margin-left: 338px;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 415px;
-    margin-right: auto;
     height: auto;
   }
 
@@ -68,44 +62,36 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-1 {
-    width: 340px;
+    margin-left: 259px;
   }
 
-  .u-section-1 .u-image-1 {
+  .u-section-1 .u-image-2 {
     width: 720px;
     height: 720px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-1 .u-group-1 {
-    margin-top: 262px;
+    margin-right: 7px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
+  .u-section-1 .u-image-1 {
     min-height: 1366px;
   }
 
   .u-section-1 .u-text-1 {
-    width: 312px;
-    margin-top: 20px;
+    margin-left: 194px;
   }
 
-  .u-section-1 .u-image-1 {
+  .u-section-1 .u-image-2 {
+    width: 540px;
     height: 540px;
-    margin-top: 177px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
   }
 
   .u-section-1 .u-group-1 {
-    margin-top: 114px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 540px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -127,31 +113,25 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 903px;
+  .u-section-1 .u-image-1 {
+    min-height: 1219px;
   }
 
   .u-section-1 .u-text-1 {
-    width: 340px;
-    margin-top: 18px;
-    margin-left: 14px;
-    margin-right: 14px;
+    width: auto;
+    margin-top: 23px;
+    margin-left: 15px;
+    margin-right: 15px;
   }
 
-  .u-section-1 .u-image-1 {
-    height: 494px;
-    width: 494px;
-    margin-top: -27px;
-    margin-right: auto;
-    margin-left: -50px;
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 340px;
+    margin-top: 275px;
   }
 
   .u-section-1 .u-group-1 {
-    margin-top: -49px;
-    margin-bottom: 1px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    width: 340px;
   }
 
   .u-section-1 .u-text-2 {
@@ -206,13 +186,9 @@
     margin-top: 38px;
     margin-bottom: 20px;
   }
-} .u-section-3 {
+}.u-section-3 .u-image-1 {
+  min-height: 2969px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("/images/pexels-evgeny-tchebotarev-4101555.jpg");
-  background-position: 50% 50%;
-}
-
-.u-section-3 .u-sheet-1 {
-  min-height: 2959px;
 }
 
 .u-section-3 .u-text-1 {
@@ -224,37 +200,27 @@
 .u-section-3 .u-text-2 {
   font-weight: 400;
   font-size: 1.875rem;
-  margin: 88px -50px 0 auto;
+  margin: 88px 0 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-sheet-1 {
+  .u-section-3 .u-image-1 {
     min-height: 2976px;
-  }
-
-  .u-section-3 .u-text-1 {
-    width: auto;
-  }
-
-  .u-section-3 .u-text-2 {
-    width: auto;
-    margin-right: -37px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 3065px;
   }
 
   .u-section-3 .u-text-2 {
     margin-right: -50px;
-    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-image-1 {
+    min-height: 3065px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-sheet-1 {
+  .u-section-3 .u-image-1 {
     min-height: 1912px;
   }
 
@@ -264,17 +230,18 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
+  .u-section-3 .u-image-1 {
     min-height: 1955px;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 3.75rem;
-    margin-right: 34px;
   }
 
   .u-section-3 .u-text-2 {
+    width: auto;
     margin-right: 0;
+    margin-bottom: 32px;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 4504px;

@@ -41470,6 +41470,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   font-weight: 400;
+  font-size: 1.125rem;
   margin: 17px 523px 44px 201px;
 }
 @media (max-width: 1199px) {
@@ -41493,6 +41494,7 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 104px;
     margin-bottom: 60px;
     margin-left: 40px;
+    font-size: 1rem;
   }
 }
 @media (max-width: 575px) {
