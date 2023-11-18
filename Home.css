@@ -1,6 +1,7 @@
 .u-section-1 .u-image-1 {
   min-height: 1807px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("/images/pexels-evgeny-tchebotarev-4101555.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-text-1 {
@@ -10,7 +11,7 @@
 .u-section-1 .u-image-2 {
   width: 923px;
   height: 923px;
-  background-image: url("/images/PhotoRoom-20231031_183120.png.png");
+  background-image: url("np://user.desktop.nicepage.com/Site_267913975/images/PhotoRoom-20231031_183120.png.png?rand=b3b2");
   background-position: 50% 50%;
   margin: 262px auto 0;
 }
@@ -189,6 +190,7 @@
 }.u-section-3 .u-image-1 {
   min-height: 2969px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("/images/pexels-evgeny-tchebotarev-4101555.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-text-1 {
@@ -217,6 +219,11 @@
   .u-section-3 .u-image-1 {
     min-height: 3065px;
   }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 767px) {
@@ -226,6 +233,7 @@
 
   .u-section-3 .u-text-2 {
     font-size: 1rem;
+    margin-right: -50px;
   }
 }
 
@@ -239,7 +247,6 @@
   }
 
   .u-section-3 .u-text-2 {
-    width: auto;
     margin-right: 0;
     margin-bottom: 32px;
   }
@@ -1292,8 +1299,10 @@
   }
 
   .u-section-9 .u-image-1 {
-    width: 340px;
     height: 152px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-9 .u-text-1 {
