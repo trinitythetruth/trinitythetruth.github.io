@@ -11,7 +11,7 @@
 .u-section-1 .u-image-2 {
   width: 923px;
   height: 923px;
-  background-image: url("np://user.desktop.nicepage.com/Site_267913975/images/PhotoRoom-20231031_183120.png.png?rand=b3b2");
+  background-image: url("np://user.desktop.nicepage.com/Site_267913975/images/Screenshot_20231121_124053_Gallery.jpg?rand=8cbe");
   background-position: 50% 50%;
   margin: 262px auto 0;
 }
@@ -669,7 +669,7 @@
 }
 
 .u-section-5 .u-image-1 {
-  width: 687px;
+  width: 814px;
   height: 414px;
   margin: 30px auto 0;
 }
@@ -732,6 +732,17 @@
   }
 }
 
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1723px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 720px;
+    height: 366px;
+  }
+}
+
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
     min-height: 1336px;
@@ -744,7 +755,7 @@
 
   .u-section-5 .u-image-1 {
     width: 540px;
-    height: 325px;
+    height: 275px;
   }
 
   .u-section-5 .u-text-3 {
@@ -785,7 +796,7 @@
 
   .u-section-5 .u-image-1 {
     width: 340px;
-    height: 205px;
+    height: 173px;
   }
 
   .u-section-5 .u-text-4 {
@@ -817,7 +828,7 @@
 
 .u-section-6 .u-image-1 {
   width: 682px;
-  height: 653px;
+  height: 654px;
   margin: 30px auto 0;
 }
 
@@ -835,7 +846,7 @@
 
 .u-section-6 .u-image-2 {
   width: 1058px;
-  height: 520px;
+  height: 523px;
   margin: 77px auto 0;
 }
 
