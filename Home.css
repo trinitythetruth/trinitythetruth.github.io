@@ -1098,7 +1098,7 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 1258px;
+    min-height: 1281px;
   }
 
   .u-section-7 .u-text-1 {
@@ -1115,6 +1115,16 @@
 
   .u-section-7 .u-text-2 {
     width: 340px;
+  }
+
+  .u-section-7 .u-text-5 {
+    font-size: 0.875rem;
+  }
+
+  .u-section-7 .u-text-6 {
+    width: auto;
+    margin-top: 37px;
+    margin-bottom: 20px;
   }
 }.u-section-8 .u-sheet-1 {
   min-height: 1567px;
