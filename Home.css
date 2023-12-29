@@ -5,6 +5,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-size: 1rem;
   margin: 36px auto 0 410px;
 }
 
@@ -126,8 +127,8 @@
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: 23px;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-2 {
