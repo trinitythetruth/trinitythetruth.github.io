@@ -971,7 +971,7 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 1371px;
+    min-height: 1400px;
   }
 
   .u-section-6 .u-image-1 {
@@ -988,13 +988,14 @@
   }
 
   .u-section-6 .u-image-2 {
-    width: 340px;
-    height: 175px;
-    margin-left: 0;
-    margin-right: 0;
+    height: 166px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-6 .u-text-4 {
+    margin-top: 105px;
     margin-bottom: 60px;
   }
 }.u-section-7 .u-sheet-1 {
