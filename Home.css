@@ -674,7 +674,8 @@
 .u-section-5 .u-text-3 {
   font-size: 1.5rem;
   font-weight: 700;
-  margin: 20px 163px 0 349px;
+  width: 628px;
+  margin: 20px auto 0;
 }
 
 .u-section-5 .u-text-4 {
@@ -715,8 +716,6 @@
 
   .u-section-5 .u-text-3 {
     width: 671px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .u-section-5 .u-text-4 {
@@ -775,7 +774,7 @@
   }
 
   .u-section-5 .u-text-3 {
-    margin-left: 0;
+    margin-left: auto;
     margin-right: auto;
     font-size: 1rem;
   }
@@ -820,10 +819,6 @@
   .u-section-5 .u-image-1 {
     width: 340px;
     height: 173px;
-  }
-
-  .u-section-5 .u-text-3 {
-    margin-left: auto;
   }
 
   .u-section-5 .u-text-4 {
