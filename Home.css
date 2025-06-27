@@ -511,7 +511,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 3821px;
+    min-height: 3597px;
   }
 
   .u-section-4 .u-layout-wrap-1 {
@@ -552,6 +552,10 @@
   .u-section-4 .u-text-10 {
     width: auto;
     margin-top: 0;
+  }
+
+  .u-section-4 .u-text-11 {
+    margin-bottom: 0;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 1866px;
