@@ -570,7 +570,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 3215px;
+    min-height: 3619px;
   }
 
   .u-section-4 .u-layout-cell-1 {
@@ -642,11 +642,12 @@
 
   .u-section-4 .u-text-10 {
     margin-top: 27px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-4 .u-text-11 {
     margin-top: 11px;
-    margin-bottom: 27px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 1866px;
